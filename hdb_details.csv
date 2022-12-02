@@ -1,0 +1,2236 @@
+town,price,size,bedrooms,bathrooms
+Woodlands,488000,101,3,2
+Queenstown,468000,65,2,2
+Serangoon,400000,70,2,2
+Yishun,670000,112,3,2
+Hougang,450000,67,2,2
+Tampines,670000,119,4,2
+Queenstown,640888,86,3,2
+Bukit Batok,715000,95,3,2
+Jurong West,749888,144,4,2
+Woodlands,598000,93,3,2
+Jurong West,498000,91,3,2
+Sembawang,318000,46,1,1
+Kallang/Whampoa,1122011,107,3,2
+Hougang,388000,67,3,2
+Tampines,910000,142,4,2
+Ang Mo Kio,999999,113,3,2
+Choa Chu Kang,560000,93,3,2
+Ang Mo Kio,480000,93,3,2
+Tampines,620000,127,4,2
+Serangoon,750000,100,3,2
+Ang Mo Kio,690000,68,2,2
+Queenstown,968000,93,3,2
+Ang Mo Kio,1200000,111,3,2
+Ang Mo Kio,399000,73,2,2
+Toa Payoh,798000,93,3,2
+Bukit Panjang,499000,110,3,2
+Punggol,580000,110,3,2
+Tampines,550000,91,3,0
+Choa Chu Kang,548000,92,3,2
+Tampines,560000,103,3,2
+Jurong West,810000,121,4,3
+Bedok,588000,115,3,2
+Ang Mo Kio,368000,67,2,2
+Bukit Merah,948000,110,3,0
+Kallang/Whampoa,615000,93,3,2
+Sembawang,430000,68,2,2
+Jurong West,548000,94,3,2
+Kallang/Whampoa,960000,93,3,2
+Sengkang,599000,90,3,2
+Geylang,620000,92,3,2
+Geylang,620000,92,3,2
+Sengkang,3500,111,3,2
+Choa Chu Kang,750000,142,4,2
+Tampines,600000,104,3,2
+Bukit Merah,868000,123,3,2
+Bedok,995000,140,4,2
+Choa Chu Kang,478000,106,3,2
+Ang Mo Kio,780000,93,3,2
+Bukit Batok,400000,67,2,2
+Clementi,395000,67,2,2
+Bukit Panjang,480000,100,3,2
+Toa Payoh,340000,65,2,1
+Kallang/Whampoa,665000,70,2,2
+Toa Payoh,590000,67,2,2
+Choa Chu Kang,470000,104,3,2
+Sengkang,565000,115,3,2
+Choa Chu Kang,520000,110,3,2
+Bukit Batok,540000,101,3,2
+Sembawang,620000,121,4,2
+Geylang,530000,104,3,2
+Woodlands,800000,170,4,3
+Bedok,628888,106,3,2
+Hougang,540000,100,3,2
+Marine Parade,848000,121,4,2
+Woodlands,515000,92,3,2
+Queenstown,880000,93,3,2
+Sembawang,485000,94,3,2
+Pasir Ris,625000,124,4,2
+Sengkang,500000,93,3,2
+Toa Payoh,738000,105,3,2
+Bukit Merah,788000,100,3,2
+Woodlands,545000,93,3,2
+Sengkang,750000,130,4,2
+Sengkang,500000,95,3,2
+Bedok,660000,128,3,2
+Central Area,470000,60,2,2
+Jurong East,700000,121,3,2
+Bukit Merah,378000,59,2,1
+Toa Payoh,380000,68,2,2
+Yishun,380000,73,2,2
+Yishun,390000,67,2,2
+Yishun,760000,113,3,2
+Punggol,568000,92,3,2
+Hougang,530000,110,3,2
+Yishun,380000,73,2,2
+Yishun,435000,84,3,2
+Jurong West,788000,113,2,2
+Bukit Merah,440000,66,3,2
+Clementi,420000,67,2,2
+Punggol,480000,85,3,2
+Choa Chu Kang,500000,104,3,2
+Woodlands,618000,93,3,2
+Yishun,400000,67,2,2
+Jurong West,545000,110,3,2
+Jurong West,550000,100,4,2
+Yishun,450000,84,3,2
+Bedok,385000,67,2,2
+Queenstown,920000,93,2,2
+Bukit Batok,430000,84,3,2
+Woodlands,530000,104,3,2
+Punggol,620000,92,3,2
+Choa Chu Kang,587000,123,3,2
+Bukit Panjang,540000,110,3,2
+Pasir Ris,645000,125,3,2
+Sengkang,555000,110,3,2
+Sengkang,650000,110,3,2
+Woodlands,350000,47,1,1
+Bukit Panjang,565000,123,3,2
+Jurong East,620000,120,3,2
+Woodlands,585000,122,3,2
+Geylang,1100000,142,3,3
+Jurong West,520000,111,3,2
+Woodlands,760000,144,3,3
+Sengkang,560000,93,2,2
+Bukit Batok,790000,113,3,2
+Woodlands,488000,103,3,2
+Toa Payoh,380000,65,2,2
+Yishun,530000,104,3,2
+Punggol,750000,130,4,2
+Sengkang,731000,128,4,2
+Yishun,620000,112,3,2
+Bukit Batok,430000,84,3,2
+Woodlands,488000,103,3,2
+Toa Payoh,380000,65,2,2
+Yishun,530000,104,3,2
+Ang Mo Kio,415000,67,2,2
+Bukit Panjang,720000,130,3,2
+Bukit Merah,411000,73,2,2
+Bukit Timah,670000,104,3,2
+Toa Payoh,688000,104,3,2
+Toa Payoh,340000,67,2,1
+Geylang,350000,66,2,1
+Yishun,405000,84,3,2
+Sembawang,788888,125,3,2
+Woodlands,480000,92,3,2
+Woodlands,488000,92,3,2
+Clementi,390000,82,2,2
+Pasir Ris,698000,126,3,2
+Woodlands,550000,104,3,2
+Geylang,999000,114,3,2
+Woodlands,320000,47,1,1
+Sembawang,520000,110,3,2
+Sembawang,570000,93,3,2
+Jurong East,750000,120,3,2
+Tampines,1028888,150,3,3
+Tampines,1088888,165,4,3
+Sengkang,650000,121,3,2
+Yishun,680000,134,4,2
+Woodlands,640000,113,3,2
+Ang Mo Kio,588888,92,3,2
+Bukit Merah,450000,64,2,2
+Hougang,580000,123,3,2
+Geylang,900000,146,4,3
+Ang Mo Kio,849999,119,4,2
+Punggol,550000,90,3,2
+Jurong West,558000,93,3,2
+Bukit Batok,530000,99,3,2
+Jurong West,550000,104,3,2
+Clementi,600000,92,3,2
+Clementi,600000,92,3,2
+Sembawang,768000,125,3,2
+Marine Parade,470000,65,2,1
+Pasir Ris,680000,126,4,2
+Bishan,688000,104,3,2
+Bukit Batok,470000,94,3,2
+Bukit Batok,470000,94,3,2
+Bukit Panjang,468000,94,3,2
+Choa Chu Kang,550000,113,3,2
+Jurong West,720000,130,4,2
+Bukit Panjang,928000,124,3,2
+Woodlands,810000,118,3,2
+Punggol,608000,93,3,2
+Ang Mo Kio,780000,110,3,2
+Ang Mo Kio,780000,110,3,2
+Punggol,728000,110,3,2
+Kallang/Whampoa,740000,118,3,2
+Serangoon,650000,95,3,2
+Tampines,868000,148,4,2
+Tampines,580000,104,3,2
+Woodlands,680000,131,4,2
+Jurong West,442000,95,3,2
+Jurong West,680000,147,3,2
+Bukit Batok,1088000,146,4,4
+Bukit Panjang,838000,140,3,2
+Woodlands,750000,140,3,2
+Sengkang,608000,93,3,2
+Sembawang,620000,110,3,2
+Jurong West,630000,130,0,2
+Geylang,688000,112,3,2
+Sengkang,550000,93,3,2
+Woodlands,410000,66,2,2
+Woodlands,900000,150,4,3
+Geylang,550000,91,3,2
+Queenstown,980000,93,3,2
+Yishun,398000,74,2,2
+Bishan,1028000,123,4,2
+Hougang,850000,140,3,3
+Kallang/Whampoa,818000,90,3,2
+Tampines,600000,121,3,2
+Bukit Batok,1088888,146,4,3
+Tampines,498000,84,3,2
+Geylang,328888,67,2,1
+Punggol,555888,91,3,2
+Marine Parade,438000,76,2,2
+Punggol,580000,90,3,2
+Sengkang,628888,115,3,2
+Tampines,560000,103,3,2
+Bedok,448000,82,3,1
+Bedok,448000,82,3,1
+Queenstown,1200000,133,4,2
+Toa Payoh,808000,93,3,2
+Jurong East,760000,120,3,2
+Serangoon,800000,115,3,2
+Punggol,580000,110,3,2
+Yishun,499000,93,3,2
+Jurong West,888000,148,4,3
+Geylang,330000,60,2,2
+Choa Chu Kang,599000,127,2,2
+Kallang/Whampoa,909000,90,3,2
+Yishun,700000,122,3,2
+Bukit Panjang,660000,113,3,2
+Queenstown,700000,65,2,2
+Yishun,340000,47,1,1
+Toa Payoh,438000,82,3,2
+Bishan,535000,84,3,2
+Marine Parade,950000,126,3,2
+Marine Parade,950000,126,3,2
+Choa Chu Kang,680000,143,4,2
+Choa Chu Kang,408000,68,2,2
+Sengkang,750000,113,1,2
+Choa Chu Kang,650000,113,3,2
+Bukit Panjang,535888,110,3,2
+Toa Payoh,808000,93,3,2
+Choa Chu Kang,785000,146,4,2
+Toa Payoh,808000,93,3,2
+Jurong West,500000,132,3,2
+Woodlands,580000,92,3,0
+Toa Payoh,700000,102,0,0
+Sengkang,490000,68,2,2
+Punggol,568000,93,3,2
+Jurong West,680000,122,3,2
+Sengkang,518000,93,3,2
+Bukit Batok,838000,112,3,2
+Woodlands,410000,67,2,2
+Bedok,638000,121,3,2
+Bukit Merah,800000,92,3,2
+Bukit Merah,800000,92,3,2
+Sembawang,535000,110,3,2
+Sengkang,500000,95,3,2
+Sengkang,820000,139,3,2
+Yishun,428000,67,2,2
+Jurong West,398000,74,2,2
+Bukit Batok,688000,120,4,2
+Bedok,659999,118,3,2
+Bedok,388000,68,2,2
+Hougang,738000,121,3,2
+Sengkang,548000,101,3,2
+Sengkang,753000,113,2,3
+Hougang,750000,92,3,2
+Ang Mo Kio,420000,82,2,2
+Yishun,555000,92,3,2
+Yishun,835000,146,4,3
+Ang Mo Kio,720000,123,4,2
+Bukit Timah,420000,65,2,2
+Geylang,530000,91,3,2
+Bedok,470000,84,3,2
+Bukit Merah,468000,66,2,2
+Woodlands,585000,115,3,2
+Punggol,553380,90,3,2
+Woodlands,600000,121,3,2
+Kallang/Whampoa,410000,65,2,2
+Choa Chu Kang,528000,92,3,2
+Choa Chu Kang,528000,92,3,2
+Bukit Batok,930000,148,4,3
+Tampines,555000,105,2,2
+Bukit Merah,880000,110,3,2
+Tampines,608000,122,3,2
+Punggol,568000,110,3,2
+Tampines,838000,113,3,2
+Bukit Batok,800000,110,3,2
+Bukit Batok,930000,148,4,3
+Bedok,995000,132,3,2
+Tampines,660000,135,3,2
+Bukit Batok,580000,108,3,2
+Toa Payoh,799000,101,3,2
+Toa Payoh,888000,101,3,2
+Marine Parade,475000,76,2,2
+Pasir Ris,850000,146,4,2
+Bishan,850000,115,3,2
+Tampines,770000,84,3,2
+Jurong West,693000,114,3,0
+Toa Payoh,928000,83,2,2
+Toa Payoh,688888,112,3,2
+Choa Chu Kang,660000,110,3,0
+Bishan,850000,115,3,2
+Bukit Merah,320000,53,2,2
+Hougang,750000,92,3,2
+Jurong West,368000,59,2,1
+Bukit Batok,550000,100,3,2
+Choa Chu Kang,480000,107,3,2
+Jurong East,750000,14,4,3
+Tampines,500000,107,3,2
+Ang Mo Kio,480000,68,2,2
+Toa Payoh,920000,145,4,2
+Queenstown,385000,59,2,1
+Sembawang,620000,110,3,2
+Choa Chu Kang,1100000,147,4,2
+Woodlands,1108000,163,4,4
+Sembawang,620000,111,4,2
+Tampines,420000,74,2,2
+Tampines,875000,147,4,3
+Bedok,388000,65,2,1
+Toa Payoh,768000,93,3,2
+Bukit Batok,450000,84,3,2
+Bukit Batok,499999,104,3,2
+Bukit Batok,499999,104,3,2
+Jurong West,698000,105,3,2
+Pasir Ris,938000,149,4,2
+Jurong West,568000,111,3,2
+Bedok,900000,143,4,3
+Bedok,900000,143,4,3
+Punggol,750000,113,3,2
+Choa Chu Kang,485000,104,3,2
+Choa Chu Kang,570000,103,3,2
+Kallang/Whampoa,958000,91,3,2
+Ang Mo Kio,799999,110,3,2
+Bukit Batok,777000,132,3,2
+Toa Payoh,730000,124,3,2
+Jurong West,510000,93,3,2
+Woodlands,548888,92,3,2
+Jurong East,468000,92,3,2
+Choa Chu Kang,540000,121,3,2
+Choa Chu Kang,478000,119,3,2
+Punggol,470000,68,2,2
+Punggol,790000,112,3,2
+Jurong East,750000,120,3,2
+Yishun,888000,142,4,2
+Yishun,554000,93,3,2
+Bishan,1300000,146,4,3
+Queenstown,938000,93,3,2
+Bedok,490000,91,3,2
+Yishun,800000,145,3,2
+Pasir Ris,680000,128,4,2
+Pasir Ris,680000,128,4,2
+Bukit Batok,780000,154,0,2
+Sengkang,508000,93,3,3
+Sengkang,600000,96,3,2
+Choa Chu Kang,538888,110,3,2
+Pasir Ris,540000,105,3,2
+Punggol,520000,90,3,2
+Geylang,799888,93,3,2
+Sembawang,588000,100,3,2
+Bukit Merah,960000,93,3,2
+Hougang,700000,92,3,2
+Marine Parade,438000,76,3,1
+Bishan,435000,67,2,2
+Ang Mo Kio,899000,113,3,2
+Toa Payoh,855000,93,3,2
+Choa Chu Kang,785000,146,4,2
+Kallang/Whampoa,928000,93,3,2
+Toa Payoh,768000,68,2,2
+Tampines,450000,74,2,2
+Geylang,650000,721,2,2
+Sembawang,648888,137,4,2
+Sembawang,710000,113,3,2
+Woodlands,550000,115,3,2
+Sembawang,450000,67,2,2
+Bedok,358000,68,2,2
+Bedok,870000,105,4,2
+Sembawang,620000,93,3,2
+Bedok,870000,105,4,2
+Hougang,520000,91,3,2
+Toa Payoh,768000,68,2,2
+Geylang,580000,60,2,2
+Bukit Merah,750000,69,2,2
+Choa Chu Kang,660000,110,3,0
+Sembawang,320000,47,1,1
+Woodlands,485000,101,3,2
+Woodlands,588000,93,3,2
+Jurong West,299000,47,1,1
+Yishun,399314,84,3,2
+Toa Payoh,950000,83,3,1
+Punggol,750000,113,3,2
+Jurong West,550000,110,3,2
+Bedok,418000,82,2,2
+Yishun,670000,112,3,2
+Bedok,320000,67,2,2
+Woodlands,700000,143,4,2
+Toa Payoh,358000,62,3,1
+Bishan,739000,100,3,2
+Bedok,458000,84,3,1
+Punggol,550000,110,3,2
+Hougang,600000,110,3,2
+Ang Mo Kio,688000,90,3,2
+Ang Mo Kio,488888,82,2,2
+Ang Mo Kio,488888,82,2,2
+Sembawang,620000,110,3,2
+Tampines,650000,110,3,2
+Bishan,738000,100,3,2
+Kallang/Whampoa,390000,68,2,1
+Woodlands,500000,103,3,2
+Central Area,400000,66,2,1
+Sengkang,550000,112,2,2
+Woodlands,615000,126,4,2
+Tampines,740000,128,4,2
+Woodlands,358888,69,2,1
+Sembawang,560000,110,3,2
+Kallang/Whampoa,360000,65,2,1
+Bukit Merah,990000,92,3,2
+Geylang,688000,112,3,2
+Punggol,545000,92,3,2
+Toa Payoh,700000,103,3,2
+Ang Mo Kio,500000,92,3,2
+Jurong West,700000,125,4,2
+Kallang/Whampoa,350000,59,2,2
+Serangoon,920000,146,4,3
+Woodlands,395000,67,2,2
+Kallang/Whampoa,600000,90,3,2
+Toa Payoh,700000,104,3,2
+Bishan,1400000,120,3,2
+Hougang,480000,84,3,2
+Hougang,750000,131,4,2
+Serangoon,900000,99,3,2
+Pasir Ris,1000000,146,3,2
+Kallang/Whampoa,448000,78,0,2
+Jurong West,460000,104,3,2
+Yishun,450000,84,3,2
+Woodlands,525000,92,3,2
+Jurong West,548000,93,3,2
+Bedok,410000,67,2,2
+Sengkang,748000,92,3,2
+Yishun,495000,93,3,2
+Sengkang,600000,94,3,2
+Woodlands,580000,121,4,2
+Jurong West,599000,125,3,2
+Bukit Batok,355000,69,2,2
+Toa Payoh,858000,93,3,2
+Queenstown,888000,94,3,2
+Hougang,1000000,154,4,3
+Sengkang,650000,110,3,2
+Sengkang,580000,111,3,2
+Toa Payoh,1088888,122,4,2
+Bishan,888880,131,4,2
+Sengkang,600000,109,3,2
+Woodlands,588000,93,3,2
+Woodlands,380000,68,2,2
+Jurong West,560000,111,3,2
+Punggol,588888,93,3,2
+Toa Payoh,810000,119,3,2
+Woodlands,500000,102,3,2
+Sengkang,578000,90,3,2
+Geylang,330000,60,2,1
+Sembawang,438000,87,3,2
+Choa Chu Kang,400000,92,3,2
+Queenstown,428000,65,2,2
+Queenstown,428000,65,2,2
+Queenstown,938000,93,3,2
+Jurong West,698000,146,5,2
+Bukit Merah,338000,60,2,1
+Queenstown,830000,95,3,2
+Jurong East,738000,121,3,2
+Jurong West,850000,121,4,3
+Jurong West,850000,121,4,4
+Serangoon,1100000,146,4,2
+Bedok,490000,95,3,2
+Woodlands,550000,93,3,2
+Bukit Merah,650000,99,3,2
+Jurong East,385000,67,2,2
+Woodlands,368888,47,1,1
+Hougang,550000,93,3,2
+Geylang,780000,107,3,2
+Tampines,600000,98,3,2
+Woodlands,570000,10,3,2
+Tampines,420000,75,2,1
+Queenstown,730000,85,3,2
+Tampines,420000,75,2,1
+Queenstown,730000,85,3,2
+Toa Payoh,750000,86,3,2
+Toa Payoh,715000,93,3,2
+Bedok,4200,144,3,2
+Queenstown,988000,106,3,2
+Choa Chu Kang,550000,104,3,2
+Tampines,570000,103,3,2
+Yishun,520000,92,3,2
+Choa Chu Kang,665000,113,3,2
+Yishun,10838000,165,5,3
+Geylang,345000,60,2,1
+Woodlands,499000,114,3,2
+Kallang/Whampoa,740000,90,3,2
+Sembawang,488000,68,2,2
+Yishun,538000,93,3,2
+Bedok,680000,121,3,2
+Sembawang,488000,68,2,2
+Sembawang,438000,87,3,2
+Jurong East,385000,67,2,2
+Jurong West,418888,74,2,2
+Bukit Batok,530000,99,3,2
+Yishun,800000,146,4,3
+Sengkang,600000,94,3,2
+Ang Mo Kio,390000,67,2,2
+Bukit Panjang,588000,122,4,2
+Sengkang,588000,113,4,2
+Choa Chu Kang,478000,106,3,2
+Punggol,588000,110,3,2
+Tampines,600000,104,3,2
+Queenstown,980000,102,4,2
+Bukit Merah,978000,91,3,2
+Ang Mo Kio,498000,88,3,2
+Kallang/Whampoa,350000,60,2,1
+Woodlands,788000,145,4,2
+Jurong West,698000,113,3,2
+Sembawang,500000,93,3,2
+Choa Chu Kang,630000,113,3,2
+Hougang,520000,91,3,2
+Toa Payoh,768000,68,2,2
+Hougang,488888,84,3,2
+Punggol,638000,90,3,2
+Tampines,950000,146,3,3
+Clementi,598000,119,3,2
+Woodlands,720000,113,3,2
+Yishun,598000,122,4,2
+Jurong West,500000,132,3,2
+Tampines,660000,125,3,2
+Sengkang,488000,67,2,2
+Pasir Ris,808000,148,3,3
+Choa Chu Kang,590000,121,3,2
+Sembawang,538000,95,3,2
+Woodlands,530000,93,3,2
+Queenstown,1000000,93,3,2
+Bukit Merah,800000,92,3,2
+Jurong West,568000,103,3,2
+Woodlands,438888,67,2,2
+Toa Payoh,340000,66,2,2
+Choa Chu Kang,788000,145,4,2
+Kallang/Whampoa,386000,60,3,1
+Bedok,475000,89,3,2
+Hougang,498000,104,3,2
+Geylang,838000,85,3,2
+Jurong West,468000,90,0,2
+Kallang/Whampoa,400000,59,2,2
+Punggol,620000,92,3,2
+Queenstown,1000000,96,3,2
+Bedok,995000,130,5,2
+Tampines,980000,146,4,3
+Hougang,650000,103,3,2
+Pasir Ris,920000,147,4,2
+Bedok,520000,94,3,2
+Queenstown,988000,106,3,2
+Choa Chu Kang,533888,93,3,0
+Toa Payoh,332000,66,2,0
+Jurong West,440000,104,3,0
+Choa Chu Kang,548000,92,3,2
+Bishan,588800,67,2,0
+Ang Mo Kio,700000,92,3,2
+Choa Chu Kang,888000,144,3,2
+Choa Chu Kang,648000,142,3,2
+Choa Chu Kang,800000,148,4,2
+Sengkang,495000,90,3,2
+Woodlands,485000,96,3,0
+Bukit Panjang,1000000,146,4,3
+Sengkang,660000,110,3,2
+Ang Mo Kio,510000,91,3,2
+Bishan,688000,122,4,2
+Pasir Ris,788888,143,4,2
+Geylang,538000,84,3,0
+Ang Mo Kio,958000,113,3,2
+Queenstown,340000,60,2,1
+Toa Payoh,808000,93,3,2
+Ang Mo Kio,580000,91,3,2
+Ang Mo Kio,938000,110,3,2
+Jurong West,548000,93,3,2
+Punggol,538888,90,3,2
+Ang Mo Kio,450000,88,3,2
+Bukit Merah,400000,59,2,2
+Serangoon,520000,100,3,2
+Bedok,720000,93,3,2
+Woodlands,900000,142,2,2
+Woodlands,580000,122,3,2
+Tampines,698000,122,3,2
+Woodlands,560000,93,3,2
+Toa Payoh,332000,66,2,1
+Yishun,520000,92,3,2
+Ang Mo Kio,438000,68,2,2
+Geylang,620000,92,3,2
+Bedok,659999,118,3,2
+Toa Payoh,808000,93,3,2
+Tampines,550000,94,3,2
+Jurong East,728000,120,3,2
+Queenstown,888000,94,3,2
+Bukit Batok,405000,67,2,2
+Bukit Merah,1050000,93,3,2
+Woodlands,558000,93,3,2
+Jurong West,460000,104,3,2
+Sengkang,988000,142,4,3
+Toa Payoh,810000,119,3,2
+Clementi,450000,82,3,2
+Jurong West,680000,112,3,0
+Bukit Batok,455000,67,2,2
+Jurong East,800000,142,3,2
+Punggol,628000,93,3,2
+Woodlands,530000,93,3,2
+Ang Mo Kio,368000,67,2,2
+Marine Parade,500000,76,2,1
+Bukit Panjang,550000,110,3,2
+Queenstown,345000,60,2,2
+Woodlands,598000,121,3,2
+Jurong West,530000,110,3,2
+Yishun,550000,93,3,2
+Tampines,618000,127,4,2
+Yishun,570000,104,3,2
+Woodlands,480000,86,3,2
+Punggol,569000,110,3,2
+Kallang/Whampoa,470000,68,2,2
+Woodlands,480000,91,3,2
+Tampines,990000,142,3,2
+Punggol,569000,110,3,2
+Kallang/Whampoa,470000,68,2,2
+Woodlands,480000,91,3,2
+Tampines,990000,142,3,2
+Punggol,553380,90,2,2
+Punggol,720000,110,2,2
+Bedok,348000,59,2,2
+Geylang,1008888,120,4,2
+Bishan,690000,100,3,2
+Choa Chu Kang,555000,110,3,2
+Hougang,580000,116,3,2
+Ang Mo Kio,535000,91,3,2
+Queenstown,900000,87,3,2
+Yishun,450000,103,3,2
+Ang Mo Kio,950000,135,3,2
+Woodlands,438000,84,3,2
+Bukit Merah,965000,110,3,2
+Geylang,1008888,120,4,2
+Bukit Panjang,838000,140,4,2
+Toa Payoh,808000,93,3,2
+Hougang,410000,65,2,2
+Tampines,500000,84,3,2
+Serangoon,668000,104,3,2
+Sembawang,648000,93,3,2
+Sengkang,699999,131,4,2
+Bukit Batok,560000,92,3,2
+Tampines,600000,104,3,2
+Yishun,685000,113,3,2
+Punggol,598000,92,3,2
+Bedok,388000,67,2,2
+Toa Payoh,550000,94,3,2
+Choa Chu Kang,550000,93,3,2
+Serangoon,1200000,150,4,2
+Toa Payoh,980000,110,3,2
+Bedok,655000,105,0,2
+Sengkang,700000,130,3,2
+Yishun,750000,142,4,0
+Tampines,780000,128,4,2
+Toa Payoh,380000,65,2,1
+Queenstown,825000,95,3,2
+Hougang,599000,110,3,2
+Bukit Merah,880000,86,3,2
+Tampines,820000,124,3,2
+Sengkang,469000,68,2,2
+Central Area,698888,87,3,1
+Central Area,498000,72,2,2
+Central Area,698888,87,3,1
+Punggol,569000,92,3,2
+Punggol,580000,110,3,2
+Woodlands,550000,93,3,2
+Queenstown,700000,90,3,2
+Queenstown,428000,65,2,2
+Jurong West,299000,66,3,1
+Sembawang,648888,137,4,2
+Queenstown,780000,109,3,2
+Punggol,599000,93,3,0
+Bukit Panjang,838000,140,4,2
+Choa Chu Kang,680000,113,3,2
+Bukit Batok,455000,67,2,2
+Tampines,640000,94,3,2
+Sengkang,538000,93,3,2
+Hougang,650000,103,3,2
+Choa Chu Kang,580000,128,3,2
+Kallang/Whampoa,450000,91,3,2
+Yishun,620000,112,3,2
+Tampines,460000,84,3,2
+Punggol,650000,110,3,2
+Queenstown,428000,65,2,2
+Tampines,808000,94,3,2
+Hougang,650000,92,3,2
+Geylang,560000,92,3,2
+Woodlands,1100000,189,6,3
+Toa Payoh,1028000,93,3,2
+Pasir Ris,788000,149,4,2
+Pasir Ris,750000,147,4,2
+Yishun,798000,148,4,3
+Sembawang,478000,90,3,2
+Yishun,560000,92,3,2
+Sembawang,550000,93,3,2
+Sengkang,558888,109,3,2
+Sengkang,718800,90,3,2
+Marine Parade,950000,120,3,2
+Sembawang,680000,131,4,2
+Queenstown,620000,68,2,2
+Tampines,450000,74,3,2
+Jurong West,548000,93,3,2
+Sengkang,330000,46,1,1
+Queenstown,490000,82,3,2
+Jurong West,590000,110,3,2
+Bukit Batok,688000,132,2,2
+Bedok,520000,94,3,2
+Toa Payoh,808000,93,3,0
+Choa Chu Kang,548000,92,3,2
+Sengkang,330000,46,1,1
+Woodlands,890000,158,4,3
+Kallang/Whampoa,350000,60,2,2
+Bedok,550000,92,3,2
+Bukit Panjang,750000,130,4,2
+Bukit Batok,360000,64,2,2
+Woodlands,980000,177,4,2
+Sengkang,550000,110,3,2
+Jurong West,358000,73,2,2
+Sembawang,535000,93,3,2
+Toa Payoh,808000,93,3,2
+Toa Payoh,1060000,143,4,2
+Yishun,718000,121,4,2
+Jurong West,850000,139,3,2
+Jurong West,499000,1301,3,2
+Woodlands,469000,66,2,2
+Toa Payoh,928000,83,2,1
+Bukit Batok,538000,94,3,2
+Jurong East,388000,82,2,2
+Bukit Panjang,558000,110,3,2
+Bishan,898000,121,3,2
+Sengkang,470000,94,3,2
+Woodlands,650000,125,4,2
+Clementi,970000,93,3,2
+Jurong West,600000,118,3,2
+Sengkang,550000,93,3,2
+Bukit Panjang,850000,143,3,2
+Bukit Panjang,850000,143,3,2
+Bukit Merah,890000,93,3,2
+Punggol,358000,37,1,1
+Geylang,330000,60,2,2
+Toa Payoh,388000,65,3,1
+Hougang,488888,84,3,2
+Bukit Merah,1280000,93,3,2
+Punggol,598000,93,3,2
+Toa Payoh,448000,68,2,1
+Punggol,638000,90,3,2
+Ang Mo Kio,799999,110,3,2
+Yishun,615000,121,3,2
+Punggol,780000,113,3,2
+Hougang,528000,104,3,2
+Woodlands,650000,125,4,2
+Sengkang,720000,92,3,2
+Kallang/Whampoa,750000,103,3,2
+Queenstown,640000,65,2,2
+Choa Chu Kang,500000,93,3,2
+Tampines,850000,146,4,3
+Tampines,668000,93,3,2
+Kallang/Whampoa,448800,67,2,2
+Bedok,320000,67,2,2
+Queenstown,1000000,104,3,2
+Jurong East,750000,121,3,2
+Yishun,670000,112,3,2
+Kallang/Whampoa,340000,59,2,1
+Choa Chu Kang,690000,113,3,2
+Pasir Ris,670000,127,3,2
+Bishan,798000,121,3,2
+Yishun,812000,146,4,2
+Sembawang,460000,90,3,2
+Queenstown,640000,85,3,2
+Serangoon,389000,67,2,2
+Woodlands,620000,122,3,2
+Sengkang,548000,93,2,2
+Woodlands,539888,93,3,2
+Sembawang,640000,93,2,2
+Jurong West,525000,104,3,2
+Yishun,390000,59,2,2
+Woodlands,900001,145,4,3
+Clementi,385000,67,2,2
+Queenstown,450000,6,2,2
+Bedok,588888,117,3,2
+Bukit Batok,340000,68,2,2
+Woodlands,550000,111,3,2
+Choa Chu Kang,700000,144,4,2
+Ang Mo Kio,800000,90,3,2
+Choa Chu Kang,648000,142,4,2
+Choa Chu Kang,488000,104,3,2
+Yishun,498000,104,3,2
+Sengkang,775000,126,4,2
+Yishun,998000,164,5,3
+Yishun,428000,68,2,2
+Yishun,998000,164,5,3
+Yishun,450000,84,3,2
+Woodlands,588000,68,3,2
+Jurong West,550000,67,2,2
+Bukit Merah,1300000,114,3,2
+Woodlands,600000,121,3,2
+Ang Mo Kio,488888,82,2,2
+Hougang,488888,84,3,2
+Toa Payoh,470000,74,2,2
+Punggol,550000,110,3,2
+Ang Mo Kio,850000,92,3,2
+Ang Mo Kio,800000,92,3,2
+Bishan,800000,122,4,2
+Bukit Panjang,555000,111,3,2
+Pasir Ris,1080888,105,3,2
+Choa Chu Kang,478000,106,3,2
+Woodlands,680000,119,4,2
+Ang Mo Kio,370000,67,2,2
+Sengkang,770000,135,4,2
+Yishun,550000,105,3,2
+Woodlands,580000,122,3,2
+Bukit Merah,660000,69,2,2
+Bedok,320000,67,2,2
+Punggol,620000,92,3,2
+Jurong West,299000,65,3,1
+Yishun,455000,104,3,2
+Sengkang,599999,93,3,2
+Queenstown,370000,65,3,2
+Sembawang,650000,133,4,2
+Kallang/Whampoa,650000,117,3,2
+Central Area,920000,82,3,1
+Yishun,550000,92,3,2
+Woodlands,488000,68,2,2
+Clementi,498000,67,2,2
+Woodlands,550000,92,3,2
+Yishun,335000,63,2,2
+Bukit Merah,670000,86,3,2
+Bedok,988000,146,4,3
+Bedok,988000,146,0,3
+Tampines,550000,105,3,2
+Clementi,428000,670,2,2
+Queenstown,490000,82,3,2
+Choa Chu Kang,530000,92,3,2
+Central Area,478000,74,2,2
+Yishun,765000,142,4,2
+Woodlands,510000,97,3,2
+Bukit Merah,1300000,114,3,2
+Sengkang,499000,90,3,2
+Jurong West,465000,104,3,2
+Bukit Batok,389000,68,2,2
+Toa Payoh,679000,91,3,2
+Punggol,529000,111,3,2
+Bukit Panjang,550000,110,3,2
+Sembawang,495000,95,3,2
+Sengkang,580000,114,3,2
+Woodlands,590000,93,3,2
+Woodlands,550000,93,3,2
+Choa Chu Kang,460000,102,3,2
+Bukit Panjang,1288000,146,4,3
+Bukit Batok,1000000,149,4,3
+Bukit Merah,1023000,123,5,2
+Serangoon,780000,113,3,2
+Bukit Panjang,550000,121,3,2
+Choa Chu Kang,550000,92,3,2
+Sembawang,640000,110,3,2
+Bishan,690000,100,3,2
+Ang Mo Kio,495000,98,3,2
+Tampines,800000,138,4,2
+Hougang,458888,90,3,2
+Kallang/Whampoa,380000,59,2,1
+Pasir Ris,768000,146,3,2
+Bukit Panjang,558000,93,3,2
+Kallang/Whampoa,560000,99,3,2
+Kallang/Whampoa,560000,9,3,2
+Kallang/Whampoa,629999,109,3,2
+Geylang,750000,105,3,2
+Queenstown,795000,83,3,2
+Toa Payoh,268000,54,1,1
+Jurong West,718000,150,3,2
+Hougang,364000,67,2,2
+Bukit Batok,800000,141,4,2
+Tampines,428000,73,2,2
+Woodlands,1086000,192,5,3
+Punggol,730888,112,3,2
+Jurong East,500000,100,3,2
+Jurong East,500000,100,3,2
+Jurong East,500000,100,3,2
+Bukit Merah,549000,72,3,2
+Bishan,838000,121,3,2
+Sembawang,620000,110,3,2
+Toa Payoh,900000,93,3,2
+Woodlands,535000,103,3,2
+Yishun,540000,93,3,2
+Bukit Batok,375000,69,2,2
+Woodlands,570000,93,3,2
+Bukit Batok,375000,69,2,2
+Bukit Panjang,588000,92,3,2
+Choa Chu Kang,528000,114,3,2
+Woodlands,645000,113,3,2
+Bukit Batok,665000,92,3,2
+Woodlands,538000,126,3,2
+Bukit Panjang,720000,121,4,2
+Bishan,1080000,121,4,2
+Toa Payoh,768000,1001,3,2
+Sembawang,330000,47,1,1
+Yishun,820000,142,3,2
+Choa Chu Kang,980000,139,4,2
+Bukit Batok,548000,90,3,3
+Queenstown,938000,90,3,2
+Bukit Merah,758000,90,3,2
+Geylang,650000,123,3,2
+Choa Chu Kang,460000,102,3,2
+Woodlands,539888,93,3,2
+Bukit Merah,680000,108,3,2
+Woodlands,648000,113,4,2
+Yishun,550000,92,3,2
+Queenstown,988000,106,3,2
+Woodlands,630000,113,3,2
+Pasir Ris,920000,147,4,2
+Punggol,358000,37,1,1
+Jurong West,680000,150,3,3
+Queenstown,320000,58,2,1
+Woodlands,460000,68,2,2
+Sengkang,570000,93,3,2
+Sengkang,548000,110,3,2
+Central Area,550000,60,2,2
+Ang Mo Kio,380000,67,2,2
+Tampines,430000,73,2,2
+Pasir Ris,845000,149,4,2
+Bedok,568000,102,3,2
+Punggol,568000,110,3,2
+Bukit Timah,590000,91,3,1
+Sengkang,520000,101,3,2
+Jurong West,430000,68,2,2
+Jurong West,850000,121,4,3
+Jurong West,780000,159,4,2
+Jurong West,700000,149,4,3
+Marine Parade,450000,68,3,2
+Punggol,499000,68,2,2
+Punggol,550000,90,3,2
+Geylang,800000,118,3,2
+Bedok,659999,118,3,2
+Jurong West,810000,121,4,3
+Bishan,598000,84,3,2
+Bukit Merah,620000,67,2,2
+Bukit Merah,1160000,95,3,2
+Queenstown,460000,65,2,1
+Kallang/Whampoa,1038000,121,3,2
+Punggol,580000,110,3,2
+Ang Mo Kio,899000,113,3,2
+Bukit Merah,890000,93,3,2
+Geylang,485000,84,3,3
+Bishan,1190000,120,3,2
+Toa Payoh,760000,93,3,2
+Sembawang,480000,68,2,2
+Yishun,700000,92,3,2
+Punggol,688000,128,4,2
+Hougang,399000,71,2,2
+Serangoon,390000,64,2,1
+Woodlands,638000,113,3,2
+Sengkang,550000,90,3,2
+Queenstown,399000,65,2,1
+Queenstown,325000,66,2,2
+Sembawang,610000,93,3,2
+Woodlands,750000,113,3,2
+Tampines,880000,107,3,2
+Tampines,880000,107,3,2
+Choa Chu Kang,530000,92,3,2
+Choa Chu Kang,538000,93,3,2
+Woodlands,650000,125,4,2
+Bedok,388000,61,2,1
+Bedok,443000,84,3,2
+Bukit Merah,1300000,114,3,2
+Yishun,399314,84,3,2
+Jurong West,330000,47,1,1
+Bishan,585000,104,3,2
+Queenstown,780000,103,3,2
+Clementi,610000,119,3,2
+Yishun,438000,68,2,2
+Pasir Ris,630000,122,3,2
+Punggol,478000,68,2,2
+Bedok,320000,67,2,2
+Tampines,395000,74,2,2
+Woodlands,338888,68,2,2
+Woodlands,480000,86,3,2
+Bedok,455000,82,3,2
+Bishan,888000,121,3,2
+Hougang,690000,120,3,2
+Woodlands,650000,125,4,2
+Yishun,990000,165,5,3
+Toa Payoh,450000,78,2,2
+Choa Chu Kang,800000,135,4,2
+Bukit Panjang,399000,67,2,2
+Geylang,520000,84,3,2
+Geylang,340000,56,2,1
+Queenstown,598000,86,3,3
+Pasir Ris,780000,146,3,2
+Punggol,599000,90,3,2
+Punggol,550000,92,3,2
+Marine Parade,438000,65,2,1
+Jurong East,530000,72,2,2
+Choa Chu Kang,665000,113,3,2
+Bukit Panjang,470000,103,3,2
+Choa Chu Kang,520000,121,3,2
+Bukit Panjang,670000,101,3,2
+Hougang,470000,915,3,2
+Hougang,470000,85,3,2
+Choa Chu Kang,549000,121,3,2
+Hougang,450000,84,3,2
+Bukit Merah,385000,65,2,1
+Punggol,659000,93,3,2
+Woodlands,498000,103,3,2
+Punggol,598000,95,3,2
+Bukit Merah,250000,31,1,1
+Yishun,399999,84,3,2
+Jurong West,468000,90,3,2
+Tampines,650000,122,3,2
+Choa Chu Kang,398000,69,2,2
+Queenstown,1000000,93,3,2
+Queenstown,800000,119,4,2
+Sengkang,588000,93,3,2
+Geylang,819888,93,3,2
+Queenstown,330000,60,2,1
+Clementi,580000,94,3,2
+Kallang/Whampoa,350000,59,2,1
+Geylang,999000,114,3,2
+Geylang,999000,114,3,2
+Bishan,688000,122,4,2
+Sembawang,640000,93,3,2
+Queenstown,820000,115,3,2
+Bukit Panjang,480000,103,3,2
+Yishun,578000,93,3,2
+Tampines,638000,122,3,2
+Tampines,770000,84,3,2
+Jurong East,588000,117,3,2
+Ang Mo Kio,615000,82,2,2
+Sengkang,465000,90,3,2
+Punggol,613000,110,3,2
+Pasir Ris,580000,145,4,2
+Hougang,660000,92,3,2
+Sengkang,599000,112,3,2
+Sengkang,430000,94,3,2
+Bukit Merah,460000,91,5,5
+Sengkang,599000,112,3,2
+Bishan,599000,104,3,2
+Hougang,720000,112,4,2
+Bishan,599000,104,3,2
+Hougang,720000,112,4,2
+Serangoon,1000000,146,4,3
+Bishan,820000,120,4,2
+Woodlands,475000,92,3,2
+Choa Chu Kang,700000,142,4,2
+Bukit Merah,998000,121,3,2
+Bedok,370000,68,2,2
+Sembawang,650000,130,3,2
+Jurong West,490000,110,3,2
+Tampines,490000,103,3,2
+Sengkang,499000,115,3,2
+Punggol,500000,92,3,2
+Hougang,450000,104,3,2
+Bedok,695000,93,3,2
+Toa Payoh,340000,65,2,2
+Jurong West,750000,114,3,2
+Punggol,650000,97,3,2
+Woodlands,499000,92,3,2
+Choa Chu Kang,598000,100,2,2
+Clementi,800000,90,3,3
+Yishun,550000,10,3,2
+Punggol,700000,112,3,2
+Jurong West,465000,85,3,2
+Tampines,680000,122,2,2
+Sembawang,550000,92,3,2
+Punggol,440000,67,2,2
+Marine Parade,988000,126,3,2
+Kallang/Whampoa,1180000,144,4,2
+Choa Chu Kang,500000,106,3,2
+Jurong West,550000,112,3,2
+Woodlands,860000,163,4,3
+Jurong West,460000,104,3,2
+Punggol,580000,93,3,2
+Clementi,500000,92,3,2
+Woodlands,488000,99,3,2
+Bukit Panjang,498000,100,3,2
+Woodlands,498000,102,3,2
+Bukit Batok,725000,149,3,2
+Choa Chu Kang,575000,110,3,2
+Sengkang,720000,92,3,2
+Jurong East,510000,90,3,2
+Jurong East,510000,90,3,2
+Ang Mo Kio,388000,67,2,2
+Ang Mo Kio,358000,67,2,2
+Bedok,538000,103,3,2
+Jurong West,585000,110,3,2
+Ang Mo Kio,378000,67,2,2
+Woodlands,518000,104,3,2
+Marine Parade,405000,65,2,2
+Jurong West,488000,93,3,2
+Clementi,880000,91,3,2
+Jurong West,699000,130,3,2
+Bishan,1489900,120,3,2
+Bukit Panjang,460000,103,3,2
+Jurong West,515000,93,3,2
+Bukit Merah,590000,110,3,2
+Jurong West,560000,110,3,2
+Jurong West,470000,94,3,2
+Yishun,418000,84,3,2
+Toa Payoh,880000,91,3,2
+Jurong East,658000,134,3,2
+Yishun,418000,84,3,2
+Bukit Panjang,658888,112,3,2
+Toa Payoh,948000,147,4,2
+Bukit Panjang,379888,73,2,2
+Jurong West,538000,111,3,2
+Tampines,758000,113,3,2
+Yishun,850000,146,3,2
+Yishun,398000,67,2,2
+Bedok,570000,66,2,2
+Woodlands,638000,112,3,2
+Pasir Ris,998888,147,3,3
+Toa Payoh,860000,91,3,2
+Bedok,400000,67,2,2
+Bukit Merah,388000,76,3,1
+Choa Chu Kang,660000,113,3,2
+Bukit Merah,385000,65,2,1
+Jurong East,688888,120,3,2
+Punggol,650000,110,3,3
+Punggol,650000,110,3,3
+Bukit Panjang,699000,113,3,2
+Toa Payoh,950128,88,3,2
+Toa Payoh,928000,138,3,2
+Serangoon,528000,105,3,2
+Central Area,530000,60,2,1
+Central Area,450000,60,2,1
+Bukit Batok,648888,118,4,2
+Toa Payoh,1200000,114,3,2
+Bukit Batok,649000,118,4,2
+Ang Mo Kio,950000,93,3,2
+Marine Parade,475000,76,2,2
+Woodlands,550000,93,3,2
+Yishun,700000,122,3,2
+Yishun,700000,122,3,2
+Bedok,550000,120,3,2
+Yishun,700000,122,3,2
+Bishan,430000,88,3,2
+Hougang,550000,103,3,2
+Woodlands,540000,93,3,2
+Punggol,650000,92,3,2
+Jurong West,435000,103,3,2
+Clementi,498000,83,3,2
+Queenstown,360000,66,0,2
+Yishun,440000,68,2,2
+Jurong West,599000,110,2,2
+Sengkang,848000,120,4,3
+Choa Chu Kang,850000,143,3,3
+Tampines,638000,122,3,1
+Ang Mo Kio,438000,68,2,2
+Punggol,559000,110,3,2
+Jurong West,540000,93,3,2
+Choa Chu Kang,640000,142,4,2
+Choa Chu Kang,495000,104,3,2
+Punggol,630000,110,3,2
+Serangoon,750000,103,3,2
+Bedok,600000,121,3,2
+Marine Parade,475000,76,2,2
+Queenstown,450000,65,2,2
+Queenstown,979000,93,3,2
+Queenstown,788000,92,3,2
+Clementi,608000,93,3,2
+Bukit Merah,450000,76,1,1
+Sengkang,630000,90,3,2
+Yishun,550000,109,3,2
+Sengkang,600000,110,3,2
+Marine Parade,475000,76,2,2
+Marine Parade,475000,76,2,2
+Woodlands,685000,113,3,2
+Sengkang,699000,113,3,2
+Kallang/Whampoa,978000,93,3,2
+Hougang,658000,120,3,2
+Toa Payoh,415000,66,2,1
+Bukit Batok,560000,10,3,2
+Yishun,480000,92,3,2
+Clementi,398000,69,2,2
+Tampines,668000,137,3,2
+Geylang,850000,95,3,2
+Bedok,550000,92,3,2
+Bukit Panjang,699000,113,3,2
+Woodlands,460000,93,3,2
+Woodlands,620000,93,3,2
+Sembawang,648000,93,3,2
+Punggol,580000,110,3,2
+Bedok,608000,117,3,2
+Pasir Ris,660000,112,3,2
+Choa Chu Kang,800000,135,4,2
+Hougang,495000,85,3,2
+Yishun,565000,93,3,2
+Woodlands,638000,120,3,2
+Bishan,680000,102,3,2
+Bukit Batok,810000,113,3,2
+Sengkang,560000,92,3,2
+Bedok,465000,84,3,2
+Sembawang,618000,93,3,2
+Bukit Merah,799000,119,3,2
+Sembawang,488888,106,3,2
+Tampines,450000,73,2,2
+Ang Mo Kio,685000,92,3,2
+Queenstown,1000000,105,3,2
+Bukit Merah,880000,83,3,2
+Geylang,438000,84,3,2
+Hougang,565000,106,2,2
+Yishun,688000,113,3,2
+Sengkang,599999,93,3,2
+Bukit Panjang,615000,133,4,2
+Sembawang,450000,67,2,2
+Bedok,358000,68,2,2
+Sengkang,508000,93,3,2
+Kallang/Whampoa,349999,63,2,2
+Punggol,490000,90,3,2
+Sembawang,618000,93,3,2
+Sembawang,460000,90,3,2
+Marine Parade,540000,87,3,2
+Jurong West,535000,110,3,2
+Bedok,340000,65,2,1
+Bukit Batok,500000,84,3,2
+Bukit Batok,478000,84,3,2
+Jurong West,699999,120,3,2
+Bukit Panjang,720000,112,3,2
+Woodlands,520000,93,3,2
+Geylang,585000,109,3,2
+Kallang/Whampoa,400000,59,2,2
+Queenstown,800000,119,4,2
+Yishun,357000,74,2,2
+Marine Parade,475000,76,2,2
+Serangoon,548000,84,3,2
+Clementi,980000,110,3,2
+Yishun,730000,113,3,2
+Punggol,828000,113,4,2
+Pasir Ris,938000,149,4,2
+Jurong East,570000,120,3,2
+Tampines,430000,73,2,2
+Tampines,468000,74,2,2
+Woodlands,598000,123,2,3
+Tampines,415888,73,2,2
+Hougang,650000,92,3,2
+Choa Chu Kang,500000,110,3,2
+Hougang,388888,68,2,2
+Yishun,888888,146,4,3
+Yishun,888888,146,4,3
+Bukit Panjang,838000,140,4,2
+Tampines,650000,137,3,2
+Woodlands,430000,68,2,2
+Pasir Ris,595000,122,3,2
+Bukit Timah,920000,122,3,2
+Sembawang,495000,95,3,2
+Woodlands,588888,93,3,2
+Pasir Ris,660000,121,4,2
+Serangoon,430000,64,2,0
+Sengkang,600000,110,3,2
+Toa Payoh,1060000,142,4,2
+Woodlands,500000,90,3,2
+Yishun,385000,73,2,2
+Clementi,588000,93,4,2
+Queenstown,1200000,93,3,2
+Serangoon,700000,122,0,2
+Yishun,395000,68,2,2
+Toa Payoh,1060000,142,4,2
+Woodlands,488000,99,3,2
+Bukit Merah,1050000,110,3,0
+Woodlands,580000,111,3,3
+Tampines,890000,108,3,2
+Yishun,495000,93,3,2
+Jurong West,548000,100,3,2
+Yishun,700000,122,3,2
+Sembawang,650000,133,4,2
+Ang Mo Kio,750000,95,3,2
+Ang Mo Kio,750000,95,3,2
+Toa Payoh,499000,74,2,2
+Woodlands,720000,113,2,2
+Yishun,428000,84,3,2
+Pasir Ris,998888,147,3,3
+Tampines,590000,110,3,2
+Punggol,580000,110,3,2
+Sembawang,518000,102,3,2
+Choa Chu Kang,738888,143,3,2
+Toa Payoh,620000,103,3,2
+Hougang,500000,100,3,2
+Woodlands,588888,93,3,2
+Woodlands,588888,93,3,2
+Sembawang,658000,131,3,2
+Kallang/Whampoa,420000,65,2,2
+Bedok,599000,115,3,2
+Yishun,498000,104,3,2
+Yishun,498000,104,3,2
+Kallang/Whampoa,680000,103,3,2
+Tampines,770000,84,3,2
+Kallang/Whampoa,795000,89,3,2
+Clementi,998000,94,3,2
+Toa Payoh,1430000,114,3,2
+Bedok,460000,92,3,2
+Sengkang,600000,110,3,2
+Bukit Batok,520000,107,3,3
+Queenstown,800000,119,3,2
+Bishan,650000,84,3,2
+Choa Chu Kang,550000,110,3,2
+Woodlands,1090000,192,5,3
+Woodlands,548000,115,3,2
+Bukit Merah,998000,115,3,2
+Yishun,450000,95,3,2
+Woodlands,598000,11,4,2
+Kallang/Whampoa,938000,93,3,2
+Geylang,620000,110,3,2
+Sembawang,768000,125,4,2
+Bishan,688000,122,4,2
+Bukit Timah,650000,89,3,2
+Toa Payoh,1430000,114,3,2
+Pasir Ris,998000,147,4,2
+Punggol,568000,110,3,2
+Toa Payoh,788000,93,3,2
+Yishun,599999,93,3,2
+Hougang,550000,103,3,2
+Bukit Merah,365000,59,2,2
+Woodlands,538000,93,3,2
+Queenstown,460000,45,1,1
+Geylang,360000,56,2,1
+Bukit Batok,520000,99,3,2
+Sembawang,718000,11,3,2
+Yishun,488000,83,3,2
+Woodlands,325000,60,2,1
+Bukit Panjang,688000,121,3,2
+Bukit Panjang,348000,47,1,1
+Toa Payoh,810000,119,4,0
+Queenstown,498888,84,3,2
+Bukit Merah,1000000,83,3,2
+Choa Chu Kang,555555,124,3,2
+Tampines,500000,84,3,2
+Bukit Batok,398000,73,2,2
+Woodlands,540000,93,3,2
+Sembawang,620000,130,3,2
+Jurong West,435000,103,3,2
+Sembawang,531000,110,3,2
+Sengkang,499000,91,3,2
+Sembawang,580000,110,3,2
+Sembawang,535000,110,0,2
+Sembawang,535000,110,0,2
+Toa Payoh,799949,132,4,4
+Yishun,705000,113,3,2
+Yishun,705000,113,3,2
+Sembawang,613000,93,3,2
+Sembawang,613000,93,3,2
+Punggol,632000,93,3,2
+Sengkang,450000,67,2,2
+Sengkang,775000,126,4,2
+Yishun,490000,98,3,2
+Sengkang,700000,113,3,2
+Toa Payoh,400000,63,2,1
+Queenstown,930000,93,3,2
+Bishan,898000,121,3,2
+Bukit Merah,850000,88,2,1
+Kallang/Whampoa,960000,93,3,2
+Sengkang,330000,46,1,1
+Queenstown,319999,58,2,1
+Queenstown,799000,85,3,2
+Queenstown,349999,68,3,1
+Queenstown,614999,87,3,2
+Woodlands,588888,122,3,2
+Toa Payoh,469888,82,3,2
+Queenstown,429999,65,2,2
+Geylang,780000,107,3,2
+Sengkang,508800,93,3,2
+Kallang/Whampoa,349999,63,2,2
+Yishun,398000,73,2,2
+Yishun,660000,112,3,2
+Bedok,800000,94,3,2
+Kallang/Whampoa,420000,60,2,2
+Jurong East,368888,68,2,2
+Pasir Ris,579000,103,3,2
+Jurong West,388000,73,2,2
+Jurong West,388000,73,2,2
+Choa Chu Kang,510000,104,3,2
+Bukit Batok,918000,155,4,3
+Marine Parade,475000,76,2,2
+Toa Payoh,1080000,105,3,2
+Bedok,455000,82,2,2
+Bukit Merah,888000,85,3,2
+Yishun,1000000,92,3,2
+Bedok,490000,91,3,2
+Geylang,310000,57,2,1
+Sengkang,630000,90,3,2
+Jurong West,560000,111,0,0
+Tampines,570000,104,3,0
+Punggol,650000,93,3,2
+Serangoon,615000,110,3,2
+Marine Parade,495000,82,3,2
+Pasir Ris,850000,145,5,2
+Tampines,658777,93,3,2
+Choa Chu Kang,640000,122,3,2
+Queenstown,938888,93,3,2
+Choa Chu Kang,530000,92,3,2
+Bukit Batok,560000,122,3,2
+Toa Payoh,450000,62,2,1
+Clementi,788000,100,3,2
+Queenstown,338000,60,2,2
+Bishan,800000,103,3,2
+Jurong East,580000,101,3,2
+Jurong East,680000,135,3,2
+Woodlands,580000,1312,3,2
+Woodlands,648888,137,3,2
+Tampines,568888,108,2,2
+Queenstown,850000,95,3,2
+Sengkang,500000,90,3,2
+Hougang,550000,104,3,2
+Kallang/Whampoa,938000,93,3,2
+Pasir Ris,670000,127,3,2
+Clementi,338000,67,2,2
+Yishun,498000,104,3,2
+Yishun,698000,122,3,2
+Sengkang,1050000,112,3,2
+Choa Chu Kang,660000,110,3,0
+Ang Mo Kio,530000,91,3,2
+Sengkang,368000,48,1,0
+Yishun,498000,108,3,2
+Marine Parade,958000,126,3,2
+Jurong East,328000,72,2,1
+Punggol,550000,110,3,2
+Bukit Panjang,968888,126,4,2
+Punggol,848800,112,2,3
+Queenstown,550000,82,3,0
+Punggol,610000,111,3,2
+Jurong West,480000,90,3,2
+Bukit Merah,948000,110,3,2
+Bukit Merah,928000,135,4,2
+Sengkang,508000,93,3,2
+Sengkang,600000,110,3,2
+Jurong East,950000,136,4,4
+Yishun,500000,92,3,2
+Ang Mo Kio,470000,70,2,2
+Toa Payoh,350000,65,2,1
+Bukit Batok,438000,84,3,2
+Choa Chu Kang,499999,110,4,0
+Sembawang,565000,110,0,0
+Clementi,445000,68,2,2
+Bukit Panjang,670000,101,3,2
+Punggol,468000,68,2,2
+Bishan,948000,12,4,2
+Sembawang,715000,113,3,2
+Jurong West,585888,118,3,2
+Bukit Batok,580000,103,3,2
+Sembawang,340000,47,1,1
+Sembawang,768000,125,4,2
+Marine Parade,475000,76,2,2
+Marine Parade,475000,76,2,2
+Bishan,900000,10,3,2
+Marine Parade,475000,76,2,2
+Marine Parade,475000,76,2,2
+Toa Payoh,500000,84,3,2
+Tampines,818888,114,3,2
+Bukit Merah,510000,84,3,2
+Jurong East,688888,120,3,2
+Clementi,438000,82,2,2
+Clementi,438000,82,2,2
+Bukit Batok,688000,120,4,2
+Woodlands,540000,93,3,2
+Choa Chu Kang,620000,121,3,2
+Choa Chu Kang,540000,104,3,2
+Sembawang,610000,93,3,2
+Choa Chu Kang,650000,113,3,2
+Punggol,600000,112,3,2
+Sengkang,600000,90,3,2
+Hougang,450000,91,3,2
+Hougang,829999,112,3,2
+Tampines,899999,110,3,2
+Tampines,488888,68,2,2
+Bukit Merah,1300000,114,3,2
+Bedok,995000,139,4,2
+Woodlands,680000,113,3,2
+Woodlands,520000,102,3,2
+Yishun,398000,67,2,2
+Pasir Ris,535000,94,3,2
+Bedok,340000,60,2,2
+Bukit Merah,1100000,110,3,2
+Tampines,790000,132,5,3
+Marine Parade,468000,76,3,2
+Woodlands,420000,68,2,2
+Jurong West,310000,65,2,1
+Pasir Ris,850000,153,4,2
+Choa Chu Kang,510000,93,3,2
+Bishan,550000,84,3,2
+Queenstown,1328888,148,4,3
+Yishun,950000,146,4,3
+Yishun,640000,112,3,2
+Sembawang,650000,131,4,2
+Kallang/Whampoa,350000,50,2,1
+Bedok,338000,59,2,2
+Sengkang,560000,92,3,2
+Serangoon,800000,123,3,2
+Bishan,680000,102,3,2
+Toa Payoh,600000,68,2,2
+Woodlands,358000,75,2,1
+Geylang,340000,602,2,1
+Ang Mo Kio,760000,93,3,2
+Serangoon,1200000,147,4,3
+Bukit Panjang,508888,93,3,2
+Queenstown,1400000,92,3,2
+Punggol,650000,112,4,2
+Yishun,500000,93,3,2
+Toa Payoh,360000,63,2,2
+Woodlands,400000,73,2,0
+Clementi,598000,119,3,2
+Toa Payoh,388000,65,3,1
+Bedok,888000,119,3,2
+Ang Mo Kio,685000,92,3,2
+Woodlands,950000,166,4,2
+Punggol,458000,65,0,2
+Hougang,658000,120,3,2
+Tampines,450000,74,3,2
+Toa Payoh,395000,65,2,1
+Bishan,680000,119,3,2
+Punggol,600000,96,3,2
+Choa Chu Kang,530000,106,3,2
+Bukit Panjang,399000,67,2,2
+Toa Payoh,858000,93,3,2
+Punggol,660000,93,3,2
+Bedok,538888,92,3,2
+Bukit Timah,650000,89,3,2
+Sengkang,600000,110,3,2
+Queenstown,938000,90,3,2
+Hougang,395000,67,2,2
+Sengkang,600000,110,3,2
+Queenstown,938000,90,3,2
+Hougang,395000,67,2,2
+Bukit Merah,385000,65,2,1
+Punggol,580000,110,3,2
+Geylang,299000,60,2,1
+Tampines,770000,84,3,2
+Bukit Panjang,540000,93,3,2
+Bukit Panjang,530000,110,3,2
+Sengkang,720000,131,2,2
+Kallang/Whampoa,930000,120,3,2
+Queenstown,400000,71,2,2
+Bukit Merah,1300000,114,3,2
+Tampines,660000,126,3,2
+Choa Chu Kang,535000,93,3,2
+Tampines,450000,74,3,2
+Bukit Panjang,649000,133,3,2
+Choa Chu Kang,660000,113,3,2
+Sengkang,600000,93,3,0
+Pasir Ris,528000,107,3,2
+Woodlands,688888,93,3,2
+Jurong East,808000,141,3,2
+Punggol,568888,110,3,2
+Punggol,568888,110,3,2
+Bukit Merah,350000,51,2,1
+Sengkang,515000,95,3,2
+Tampines,425000,74,2,2
+Bukit Panjang,688000,113,3,2
+Woodlands,688888,93,3,2
+Ang Mo Kio,360000,68,2,2
+Woodlands,550000,92,3,2
+Woodlands,548888,92,3,2
+Sembawang,610000,93,3,2
+Queenstown,468000,65,3,2
+Jurong East,609000,120,3,2
+Pasir Ris,600000,65,2,2
+Jurong West,588880,116,3,2
+Geylang,510000,104,3,2
+Bukit Batok,798000,148,4,3
+Choa Chu Kang,738888,143,3,2
+Bedok,1118338,123,3,2
+Toa Payoh,798000,93,3,2
+Bukit Panjang,699000,113,3,2
+Toa Payoh,450000,65,2,1
+Tampines,415888,73,2,2
+Jurong West,580000,111,1,2
+Woodlands,389000,93,3,2
+Bedok,398000,73,2,2
+Queenstown,1100000,109,3,2
+Bedok,550000,92,3,2
+Yishun,700000,122,3,2
+Queenstown,790000,93,3,2
+Toa Payoh,750000,121,3,2
+Woodlands,648000,112,3,2
+Toa Payoh,280000,64,2,2
+Ang Mo Kio,480000,91,3,2
+Toa Payoh,848000,93,3,2
+Bedok,550000,92,3,2
+Jurong East,580000,101,3,2
+Jurong East,680000,134,3,2
+Tampines,540000,105,3,2
+Sengkang,580000,96,3,2
+Tampines,450000,74,3,2
+Bukit Panjang,500000,104,3,2
+Marine Parade,600000,87,3,2
+Punggol,830000,113,3,2
+Sengkang,638000,121,3,2
+Sengkang,638000,121,3,2
+Woodlands,780000,141,4,3
+Jurong West,518888,93,3,2
+Sengkang,628000,121,3,2
+Jurong East,518000,104,3,2
+Toa Payoh,1050000,113,3,2
+Bukit Panjang,558888,122,3,2
+Clementi,488000,81,2,2
+Serangoon,710000,10,3,2
+Toa Payoh,858000,93,3,2
+Kallang/Whampoa,880000,89,3,2
+Hougang,420000,66,2,2
+Yishun,700000,122,3,2
+Bukit Merah,850000,110,3,2
+Sengkang,750000,134,3,2
+Tampines,468000,74,2,2
+Tampines,548000,107,3,2
+Sengkang,488000,90,3,2
+Queenstown,938000,90,3,2
+Tampines,450000,74,3,2
+Punggol,350000,50,1,1
+Sembawang,650000,111,4,2
+Jurong West,558000,93,3,2
+Pasir Ris,1000000,105,3,2
+Kallang/Whampoa,930000,120,3,2
+Choa Chu Kang,630000,142,4,2
+Queenstown,1100000,93,3,2
+Pasir Ris,820000,145,4,2
+Bukit Batok,690000,118,4,2
+Bukit Timah,800000,104,3,2
+Bedok,995000,139,5,2
+Ang Mo Kio,525000,93,3,2
+Bishan,1250000,162,4,3
+Bukit Merah,1300000,114,3,2
+Sengkang,620000,94,3,2
+Bukit Panjang,888000,155,3,3
+Hougang,588000,122,3,2
+Toa Payoh,328000,65,2,2
+Sengkang,750000,134,3,2
+Tampines,555000,105,3,2
+Marine Parade,438000,70,2,1
+Geylang,515000,67,2,2
+Tampines,488000,84,3,2
+Yishun,528000,93,3,2
+Sembawang,600000,93,3,2
+Toa Payoh,398000,67,2,1
+Jurong West,500000,104,3,2
+Hougang,725000,92,3,2
+Queenstown,958000,88,3,2
+Toa Payoh,600000,68,2,2
+Woodlands,320000,60,2,1
+Woodlands,598000,124,3,2
+Yishun,530000,90,3,2
+Yishun,530000,90,3,2
+Tampines,660000,126,3,2
+Jurong West,529999,88,2,2
+Kallang/Whampoa,1100000,139,3,3
+Sengkang,660000,113,3,2
+Bishan,750000,103,3,2
+Ang Mo Kio,750000,93,3,2
+Toa Payoh,935000,91,3,2
+Woodlands,599000,110,3,2
+Sengkang,640000,94,3,2
+Tampines,550000,108,3,2
+Yishun,580000,93,3,2
+Woodlands,500000,101,3,2
+Kallang/Whampoa,470000,68,2,2
+Woodlands,800000,146,3,2
+Sembawang,565000,110,3,2
+Pasir Ris,918888,150,3,3
+Jurong West,515000,111,1,2
+Woodlands,338000,47,1,1
+Kallang/Whampoa,938000,93,3,2
+Bukit Panjang,740000,112,3,2
+Marine Parade,520000,82,3,1
+Sengkang,299999,44,1,2
+Bukit Panjang,470000,104,3,2
+Kallang/Whampoa,938000,93,2,2
+Punggol,830000,113,2,2
+Bishan,800000,103,3,2
+Geylang,998000,152,3,3
+Sengkang,580000,110,3,2
+Bukit Batok,700000,92,3,2
+Punggol,578000,110,3,2
+Woodlands,638000,1291,3,2
+Woodlands,638000,120,3,2
+Queenstown,445000,65,2,1
+Toa Payoh,600000,68,2,2
+Ang Mo Kio,368000,67,2,2
+Woodlands,1000000,172,7,3
+Sengkang,538000,90,3,2
+Pasir Ris,508000,103,4,2
+Toa Payoh,810000,119,4,2
+Bedok,860000,148,0,3
+Jurong East,328000,72,2,1
+Woodlands,800000,147,4,3
+Serangoon,535000,100,3,2
+Bukit Merah,420000,721,2,2
+Ang Mo Kio,530000,91,3,2
+Tampines,550000,105,3,2
+Ang Mo Kio,750000,119,3,2
+Geylang,700000,101,3,2
+Sengkang,600000,110,3,2
+Bukit Batok,778000,92,3,2
+Toa Payoh,830000,101,3,2
+Toa Payoh,830000,101,3,2
+Toa Payoh,1060000,142,4,2
+Ang Mo Kio,599999,90,3,2
+Woodlands,648888,137,3,2
+Choa Chu Kang,638000,121,3,2
+Jurong West,525000,111,2,2
+Kallang/Whampoa,938000,93,3,2
+Punggol,613000,110,3,2
+Bukit Panjang,608000,122,3,2
+Kallang/Whampoa,960000,93,3,2
+Punggol,480000,68,2,2
+Punggol,325000,46,1,1
+Toa Payoh,799949,132,4,4
+Tampines,628000,90,3,2
+Bukit Merah,850000,127,4,2
+Bukit Merah,720000,62,2,2
+Toa Payoh,650000,114,3,2
+Clementi,628000,60,2,2
+Clementi,360000,68,2,2
+Hougang,378888,67,2,2
+Tampines,388000,60,2,2
+Sembawang,550000,93,3,2
+Bedok,630000,92,3,2
+Ang Mo Kio,530000,91,3,2
+Sengkang,460000,68,2,2
+Sengkang,600000,110,3,0
+Hougang,420000,66,2,2
+Central Area,560000,60,2,2
+Sengkang,600000,110,3,2
+Marine Parade,788000,120,3,2
+Marine Parade,745000,120,3,2
+Queenstown,898000,96,3,2
+Sembawang,490000,68,2,2
+Bukit Merah,798000,115,3,2
+Punggol,750000,112,2,2
+Bishan,925000,121,4,2
+Choa Chu Kang,800000,167,3,2
+Toa Payoh,420000,76,3,2
+Sengkang,360000,50,1,1
+Yishun,760000,120,4,3
+Jurong West,570000,126,4,2
+Yishun,850000,164,4,3
+Hougang,435000,91,3,2
+Bukit Merah,838000,110,3,2
+Choa Chu Kang,498000,93,3,2
+Sembawang,420000,86,3,2
+Bukit Panjang,710000,123,3,2
+Kallang/Whampoa,770000,91,3,2
+Bukit Panjang,710000,123,3,2
+Kallang/Whampoa,770000,91,3,2
+Bedok,439999,92,3,2
+Jurong East,380000,68,2,2
+Ang Mo Kio,358000,67,2,2
+Bukit Merah,420000,721,2,2
+Bukit Merah,388000,67,2,2
+Sengkang,570000,93,3,2
+Sengkang,520000,115,3,2
+Ang Mo Kio,750000,93,3,2
+Kallang/Whampoa,750000,90,3,2
+Sengkang,620000,120,3,2
+Kallang/Whampoa,798000,110,3,2
+Punggol,610000,110,3,2
+Yishun,565000,93,3,2
+Bukit Panjang,600000,91,3,2
+Choa Chu Kang,760000,152,6,3
+Yishun,800000,146,4,3
+Woodlands,500000,101,3,2
+Bukit Panjang,680000,110,3,2
+Geylang,360000,56,2,1
+Ang Mo Kio,850000,119,3,2
+Tampines,448000,68,2,2
+Yishun,390000,73,2,2
+Punggol,838000,113,3,2
+Jurong West,550000,111,3,2
+Clementi,800000,162,5,4
+Bukit Merah,850000,96,3,2
+Clementi,698000,121,3,2
+Toa Payoh,728000,93,3,2
+Jurong West,488000,103,3,0
+Punggol,650000,93,3,2
+Kallang/Whampoa,390000,65,2,1
+Choa Chu Kang,599888,124,4,2
+Bishan,648000,110,3,2
+Woodlands,549000,121,3,2
+Sengkang,520000,93,3,2
+Tampines,899999,110,3,2
+Tampines,450000,73,2,2
+Punggol,520000,90,3,2
+Geylang,630000,93,3,2
+Geylang,580000,104,3,2
+Toa Payoh,350000,66,3,2
+Punggol,728000,93,3,2
+Pasir Ris,780000,152,4,2
+Bukit Merah,968000,105,3,2
+Tampines,620000,93,3,2
+Sembawang,650000,131,3,2
+Toa Payoh,560000,104,3,2
+Ang Mo Kio,343000,68,2,2
+Bukit Merah,770000,120,3,2
+Bukit Batok,788000,112,1,2
+Sembawang,715000,112,3,2
+Queenstown,1050000,110,3,2
+Bukit Panjang,548000,93,3,2
+Queenstown,830000,117,3,2
+Hougang,829999,112,3,2
+Toa Payoh,588888,78,2,1
+Punggol,650000,112,4,2
+Hougang,518000,91,3,2
+Punggol,640000,93,3,2
+Bukit Batok,708888,120,3,2
+Sengkang,753000,113,3,2
+Bukit Merah,540000,91,3,2
+Bishan,799999,120,4,2
+Sembawang,610888,93,3,2
+Yishun,368000,74,2,2
+Woodlands,1080000,179,4,2
+Toa Payoh,800000,93,3,2
+Woodlands,448000,83,3,2
+Kallang/Whampoa,938000,93,3,2
+Punggol,650000,110,3,2
+Queenstown,918000,90,3,2
+Yishun,515000,92,3,2
+Bukit Merah,750000,77,3,2
+Sembawang,495000,95,4,2
+Queenstown,550000,82,3,1
+Queenstown,1080000,151,4,2
+Bukit Panjang,810000,140,4,2
+Jurong West,750000,105,3,2
+Jurong West,750000,105,3,2
+Tampines,610000,122,3,2
+Yishun,640000,92,3,2
+Pasir Ris,608000,123,3,2
+Jurong West,738000,148,3,2
+Bishan,675000,104,3,2
+Bishan,830000,114,3,2
+Toa Payoh,938000,120,4,2
+Bishan,780000,102,3,2
+Jurong West,850000,121,4,3
+Geylang,450000,64,2,2
+Jurong West,588888,116,3,2
+Kallang/Whampoa,700000,117,3,2
+Yishun,520000,104,3,2
+Sembawang,460000,90,3,2
+Kallang/Whampoa,938000,93,3,2
+Kallang/Whampoa,868888,93,3,2
+Bukit Merah,388000,67,2,2
+Sengkang,668000,110,3,2
+Woodlands,488888,91,3,2
+Jurong East,370000,72,2,2
+Bukit Panjang,340000,47,1,1
+Bishan,638000,84,3,2
+Yishun,760000,113,3,2
+Toa Payoh,335000,65,2,2
+Toa Payoh,1250000,113,3,3
+Hougang,918000,148,4,3
+Sengkang,750000,125,4,2
+Sengkang,750000,125,4,2
+Bedok,888000,149,3,3
+Tampines,550000,91,3,0
+Bedok,488000,92,3,2
+Woodlands,650000,113,3,0
+Sembawang,498000,100,3,2
+Jurong East,328000,72,2,1
+Ang Mo Kio,750000,110,3,2
+Ang Mo Kio,343000,68,2,2
+Bukit Batok,375000,92,3,2
+Jurong West,570000,126,3,2
+Sembawang,615000,93,3,2
+Jurong West,570000,126,3,2
+Sembawang,615000,93,3,2
+Sembawang,498000,92,3,2
+Marine Parade,450000,65,2,1
+Bishan,600000,105,3,2
+Jurong East,580000,101,3,2
+Punggol,668000,93,3,2
+Punggol,668000,93,3,2
+Woodlands,515000,108,3,2
+Yishun,420000,68,2,2
+Toa Payoh,768000,68,2,2
+Queenstown,338000,60,2,1
+Bedok,380000,68,2,2
+Sengkang,820000,112,3,2
+Serangoon,750000,89,3,2
+Woodlands,599000,119,4,2
+Jurong West,548888,110,3,2
+Clementi,950000,148,4,3
+Clementi,788000,100,3,2
+Yishun,370000,72,2,2
+Sengkang,700000,114,4,3
+Pasir Ris,618000,122,3,2
+Woodlands,1020000,177,6,4
+Woodlands,586666,93,3,2
+Yishun,1000000,151,4,3
+Ang Mo Kio,370000,67,2,2
+Ang Mo Kio,378000,67,2,2
+Ang Mo Kio,295000,44,1,1
+Bukit Batok,490000,93,3,2
+Choa Chu Kang,595000,93,3,2
+Bukit Panjang,548000,93,3,2
+Queenstown,938000,90,3,2
+Choa Chu Kang,550000,92,3,2
+Sembawang,550000,92,3,2
+Sengkang,700000,115,3,2
+Geylang,510000,92,3,0
+Woodlands,688000,118,3,2
+Clementi,780000,80,3,2
+Punggol,550000,90,3,0
+Clementi,365000,67,2,2
+Bukit Batok,760000,146,4,3
+Tampines,418888,74,2,2
+Yishun,880000,146,4,3
+Marine Parade,410000,65,2,1
+Yishun,520000,93,3,2
+Bukit Merah,900000,91,3,3
+Yishun,780000,145,4,2
+Ang Mo Kio,550000,91,3,2
+Tampines,640000,121,4,2
+Sembawang,600000,93,3,2
+Kallang/Whampoa,869000,93,3,2
+Sembawang,610888,93,3,2
+Bukit Panjang,660000,113,3,2
+Bukit Merah,380000,66,2,1
+Sembawang,680000,137,3,2
+Kallang/Whampoa,720000,89,3,2
+Queenstown,829888,85,3,2
+Serangoon,490000,84,3,2
+Jurong East,328000,72,2,1
+Woodlands,550000,93,4,2
+Woodlands,550000,93,4,2
+Woodlands,568000,92,3,2
+Tampines,500000,107,3,2
+Punggol,750000,93,3,2
+Sengkang,508000,93,3,2
+Tampines,600000,121,3,2
+Tampines,650000,104,3,2
+Ang Mo Kio,508000,91,3,2
+Sembawang,620000,110,3,2
+Punggol,668000,93,3,2
+Central Area,1100000,138,3,2
+Punggol,620000,96,3,2
+Tampines,588988,106,3,2
+Toa Payoh,700000,104,3,2
+Hougang,600000,108,3,2
+Yishun,418000,74,2,2
+Yishun,515000,92,3,2
+Choa Chu Kang,550000,104,3,2
+Woodlands,600000,113,3,0
+Punggol,768000,113,3,2
+Punggol,768000,113,3,2
+Bukit Panjang,530000,110,3,2
+Bukit Merah,750000,77,3,2
+Jurong West,693000,114,3,0
+Jurong East,640000,1291,3,2
+Yishun,510000,93,3,2
+Punggol,598000,93,3,2
+Woodlands,588000,93,3,2
+Clementi,798000,80,3,2
+Bukit Batok,735000,92,3,2
+Jurong West,558000,93,3,2
+Tampines,920000,147,4,2
+Ang Mo Kio,488888,82,2,2
+Punggol,550000,110,3,2
+Bukit Merah,298000,44,1,1
+Geylang,724800,129,3,2
+Bishan,1028000,146,4,3
+Toa Payoh,335000,65,2,1
+Yishun,313000,47,1,1
+Yishun,350000,45,1,1
+Tampines,830000,148,4,2
+Woodlands,608000,134,4,3
+Pasir Ris,1099000,144,3,2
+Geylang,339000,65,2,2
+Toa Payoh,420000,82,3,2
+Bukit Panjang,850000,120,3,2
+Hougang,968000,148,0,0
+Hougang,638000,110,3,2
+Bukit Batok,920000,113,3,2
+Sengkang,520000,91,3,2
+Ang Mo Kio,368000,67,2,2
+Sengkang,588000,110,3,2
+Punggol,450000,68,2,2
+Sengkang,460000,67,2,2
+Bedok,465000,89,4,2
+Kallang/Whampoa,950000,93,3,2
+Yishun,510000,92,3,2
+Bedok,410000,82,2,0
+Choa Chu Kang,530000,106,3,0
+Bukit Batok,500000,67,2,2
+Hougang,800000,137,3,2
+Clementi,815000,93,3,2
+Sembawang,730000,113,3,2
+Bukit Batok,620000,92,3,2
+Woodlands,648888,113,3,2
+Jurong East,400000,67,2,2
+Kallang/Whampoa,699000,68,2,2
+Geylang,780000,107,3,2
+Bedok,475000,91,3,2
+Punggol,628000,110,3,2
+Punggol,800000,110,3,2
+Choa Chu Kang,484000,104,3,2
+Bedok,399000,65,2,1
+Yishun,550000,121,3,2
+Bukit Panjang,948000,140,3,3
+Yishun,760000,113,3,2
+Jurong West,558000,93,3,0
+Bishan,850000,115,3,2
+Punggol,630000,90,2,2
+Pasir Ris,530000,107,3,2
+Yishun,550000,121,3,0
+Queenstown,1100000,93,3,0
+Bishan,1100000,145,3,3
+Ang Mo Kio,1038000,113,3,2
+Bukit Merah,680000,122,3,2
+Ang Mo Kio,508000,91,3,2
+Bedok,698000,93,3,0
+Bukit Panjang,368000,64,2,2
+Sembawang,568000,93,3,2
+Woodlands,320000,60,2,1
+Bedok,680000,118,3,2
+Geylang,780000,107,3,2
+Bedok,640000,93,3,2
+Choa Chu Kang,720000,140,4,2
+Ang Mo Kio,488000,91,3,2
+Pasir Ris,828000,145,4,2
+Serangoon,1130000,151,3,2
+Sengkang,640000,94,3,0
+Central Area,468000,60,2,1
+Queenstown,938000,90,3,2
+Tampines,400000,74,2,2
+Woodlands,586666,93,3,2
+Yishun,530000,90,3,2
+Toa Payoh,799000,101,3,2
+Clementi,628000,60,2,2
+Yishun,450000,84,3,2
+Clementi,780000,80,3,2
+Bukit Merah,950000,93,3,2
+Woodlands,560000,92,3,0
+Yishun,798000,146,4,3
+Choa Chu Kang,555555,122,4,2
+Queenstown,1050000,93,3,2
+Yishun,828000,154,3,3
+Sembawang,688888,137,3,2
+Woodlands,498000,92,3,2
+Tampines,488000,92,3,2
+Queenstown,770000,83,3,2
+Bukit Panjang,383000,73,2,2
+Woodlands,499999,100,3,2
+Sembawang,440000,88,3,2
+Woodlands,499999,100,3,2
+Sembawang,440000,88,3,2
+Jurong West,350000,76,2,2
+Sengkang,660000,113,3,2
+Hougang,899999,148,3,3
+Queenstown,920000,121,4,2
+Bedok,788000,87,3,2
+Hougang,899999,148,4,3
+Jurong East,380000,67,2,2
+Kallang/Whampoa,389000,68,2,2
+Toa Payoh,345000,65,2,2
+Jurong West,678000,150,3,3
+Toa Payoh,625000,103,3,2
+Kallang/Whampoa,1288700,95,3,2
+Kallang/Whampoa,460000,65,2,2
+Jurong East,868000,141,3,2
+Toa Payoh,820000,91,3,2
+Bukit Merah,660000,77,3,2
+Yishun,550000,121,3,2
+Tampines,388000,74,2,2
+Marine Parade,630000,82,3,1
+Bukit Merah,888000,85,3,2
+Punggol,718888,112,3,2
+Bukit Merah,388000,76,3,2
+Sengkang,580000,110,3,2
+Kallang/Whampoa,420000,65,2,2
+Bukit Panjang,999999,140,4,2
+Sembawang,550000,92,3,2
+Choa Chu Kang,560000,93,3,2
+Bukit Panjang,499000,103,3,2
+Marine Parade,453000,65,2,1
+Sengkang,558000,92,3,2
+Tampines,545000,104,3,2
+Choa Chu Kang,599000,124,4,2
+Bedok,350888,63,2,1
+Toa Payoh,700000,104,3,2
+Hougang,968000,148,0,0
+Hougang,550000,93,3,2
+Tampines,488000,93,3,2
+Queenstown,420000,59,2,2
+Geylang,380000,67,2,2
+Kallang/Whampoa,338000,60,2,1
+Tampines,780000,122,3,2
+Bukit Batok,900000,113,3,2
+Hougang,600000,108,3,2
+Bedok,360000,65,2,1
+Jurong West,700000,110,3,2
+Hougang,460000,84,3,2
+Hougang,580000,100,3,2
+Ang Mo Kio,380000,68,2,2
+Tampines,400000,74,2,2
+Queenstown,938000,90,3,2
+Ang Mo Kio,690000,68,2,2
+Bishan,788888,114,3,2
+Bukit Batok,349000,64,2,2
+Clementi,628000,60,2,2
+Choa Chu Kang,550000,92,3,2
+Choa Chu Kang,515000,110,3,2
+Choa Chu Kang,588000,124,3,2
+Central Area,560000,60,2,2
+Jurong East,460000,103,3,2
+Clementi,599888,118,3,2
+Punggol,620000,9,3,2
+Pasir Ris,560000,105,4,2
+Bishan,500000,67,2,2
+Bukit Batok,688000,120,4,2
+Sengkang,569000,94,3,2
+Bukit Batok,699000,118,3,2
+Sengkang,450000,67,2,2
+Jurong West,840000,113,3,2
+Tampines,670000,133,3,2
+Ang Mo Kio,760000,93,3,3
+Toa Payoh,1180000,110,3,2
+Tampines,885000,146,3,3
+Tampines,400000,74,2,2
+Bishan,520000,64,2,2
+Sengkang,620000,94,3,2
+Clementi,768000,125,3,2
+Bishan,1300000,146,4,3
+Bishan,1300000,146,4,3
+Punggol,560000,95,3,2
+Kallang/Whampoa,950000,122,4,2
+Bukit Batok,697000,92,3,2
+Yishun,499999,92,3,2
+Yishun,800000,149,3,2
+Bukit Merah,405000,67,2,2
+Sengkang,768000,113,0,2
+Ang Mo Kio,370000,67,2,2
+Bukit Merah,1100000,89,3,2
+Toa Payoh,935000,91,3,2
+Choa Chu Kang,499000,104,3,2
+Sembawang,688888,137,3,2
+Bukit Merah,748000,88,2,1
+Punggol,550000,112,5,2
+Bukit Panjang,599999,122,3,2
+Jurong West,718000,130,4,2
+Bukit Batok,838000,152,4,2
+Sembawang,550000,110,3,2
+Jurong West,550000,104,3,2
+Woodlands,565000,121,3,2
+Geylang,338000,65,3,1
+Bukit Panjang,799000,130,4,2
+Bukit Panjang,820000,146,4,3
+Sengkang,500000,101,3,0
+Ang Mo Kio,520000,93,3,0
+Punggol,368000,37,1,1
+Yishun,660000,112,3,2
+Woodlands,568000,120,0,2
+Woodlands,1000000,176,5,2
+Bukit Merah,775000,93,3,2
+Serangoon,650134,89,3,2
+Woodlands,650000,113,4,2
+Punggol,625000,93,3,2
+Jurong West,710000,114,3,2
+Geylang,1500000,146,3,3
+Bukit Timah,500000,73,3,1
+Tampines,610000,126,3,2
+Jurong West,608000,110,3,2
+Queenstown,460000,65,3,2
+Bukit Batok,935000,113,3,2
+Queenstown,460000,65,3,2
+Bukit Batok,935000,113,3,2
+Choa Chu Kang,598000,121,3,2
+Jurong East,328000,73,2,1
+Tampines,699000,120,3,2
+Geylang,380000,67,2,2
+Toa Payoh,960000,91,3,2
+Ang Mo Kio,680000,121,3,2
+Hougang,488888,84,3,2
+Woodlands,900000,145,4,3
+Sengkang,460000,67,2,2
+Bukit Merah,640000,88,2,1
+Hougang,898000,112,4,2
+Serangoon,488888,103,3,2
+Woodlands,468888,92,3,2
+Bukit Batok,428000,89,3,2
+Choa Chu Kang,668000,113,3,2
+Punggol,600000,92,3,2
+Hougang,900000,148,3,3
+Geylang,340000,56,2,1
+Punggol,750000,120,3,2
+Sengkang,688000,130,4,2
+Bishan,1008000,146,4,3
+Geylang,340000,56,2,1
+Bedok,365000,59,2,1
+Sengkang,668000,112,3,2
+Punggol,539000,93,3,2
+Ang Mo Kio,533000,91,3,2
+Choa Chu Kang,545000,101,3,2
+Sengkang,700000,120,4,3
+Yishun,600000,92,3,2
+Queenstown,938000,93,3,2
+Geylang,330000,56,2,1
+Clementi,575000,98,3,2
+Sengkang,700000,120,4,3
+Jurong West,693000,112,3,2
+Toa Payoh,880000,110,3,2
+Choa Chu Kang,530000,92,3,2
+Yishun,380000,64,2,2
+Punggol,780000,113,3,2
+Punggol,780000,113,3,2
+Punggol,688000,113,3,2
+Punggol,768000,113,3,2
+Kallang/Whampoa,1050000,113,3,2
+Sengkang,700000,120,4,3
+Tampines,778000,122,3,2
+Bukit Batok,500000,67,2,2
+Sengkang,700000,120,4,3
+Bishan,450000,67,2,2
+Pasir Ris,530000,105,3,2
+Hougang,1100000,150,3,3
+Choa Chu Kang,640000,122,3,2
+Pasir Ris,700000,123,4,2
+Jurong East,328000,72,2,1
+Pasir Ris,530000,105,3,2
+Kallang/Whampoa,865000,93,3,2
+Tampines,610000,126,3,2
+Hougang,868000,137,4,2
+Bukit Panjang,888000,140,3,2
+Woodlands,570000,122,3,2
+Sengkang,580000,93,3,2
+Woodlands,598000,122,4,2
+Punggol,760000,112,3,2
+Kallang/Whampoa,350000,60,2,1
+Sembawang,493131,102,3,2
+Ang Mo Kio,370000,67,2,2
+Queenstown,320000,60,2,2
+Yishun,359000,47,1,1
+Jurong West,470000,104,4,2
+Tampines,520000,104,3,2
+Tampines,885000,146,3,3
+Punggol,580000,90,3,2
+Sengkang,600000,96,3,2
+Punggol,470000,67,2,2
+Kallang/Whampoa,350000,59,2,1
+Punggol,368000,37,1,1
+Tampines,468000,74,2,2
+Tampines,490000,84,3,2
+Punggol,728000,110,3,2
+Bukit Batok,388000,73,2,2
